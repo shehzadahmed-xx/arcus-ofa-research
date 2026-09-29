@@ -1,7 +1,9 @@
 # Execution Quality in Order Flow Auctions
 
 **Paper:** "Execution Quality in Order Flow Auctions: Evidence from CoW Protocol and 1inch Fusion"
-**Author:** Shehzad Ahmed (First Author)
+**Author:** Shehzad Ahmed — first author and corresponding author
+**Affiliation:** Department of Finance, Independent University, Bangladesh
+**ORCID:** [0009-0007-3538-6811](https://orcid.org/0009-0007-3538-6811)
 **Status:** Revised & resubmitted to *Journal of Financial Markets* (following peer review)
 
 ---
